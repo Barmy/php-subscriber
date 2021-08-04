@@ -1,5 +1,5 @@
 {
-    "name": "pubsubhubbub/subscriber",
+    "name": "barmy/php-subscriber",
     "type": "library",
     "description": "pubsubhubbub implementation of subscriber.",
     "keywords": ["pubsubhubbub", "subscribers", "data", "feeds"],
